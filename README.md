@@ -12,7 +12,7 @@ Documentation
 Installing
 ----------
 ```
-cordova plugin add heyzap-cordova
+cordova plugin add https://github.com/Verstala2016/heyzap-cordova-9.15.1
 ```
 
 Adding Third-Party SDKs
