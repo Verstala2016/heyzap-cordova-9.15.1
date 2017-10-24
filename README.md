@@ -17,7 +17,11 @@ cordova plugin add https://github.com/Verstala2016/heyzap-cordova-9.15.1
 
 Adding Third-Party SDKs
 -----------------------
-Third party SDKs can be added by adding their appropriate plugins found in the [Heyzap Cordova Extras](http://www.github.com/Heyzap/heyzap-cordova-extras) repository.
+1. AdMob -------- https://github.com/Verstala2016/heyzap-cordova-admob
+2. Applovin ----- https://github.com/Verstala2016/heyzap-cordova-applovin
+3. Chartboost --- https://github.com/Verstala2016/heyzap-cordova-chartboost
+3. UnityAds ----- https://github.com/Verstala2016/heyzap-cordova-unityads
+3. Vungle ------- https://github.com/Verstala2016/heyzap-cordova-vungle
 
 Supported Platforms
 -------------------
